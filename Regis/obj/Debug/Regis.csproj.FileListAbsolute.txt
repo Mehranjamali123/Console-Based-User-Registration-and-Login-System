@@ -1,0 +1,7 @@
+F:\3rd Sem\Regis\Regis\bin\Debug\Regis.exe.config
+F:\3rd Sem\Regis\Regis\bin\Debug\Regis.exe
+F:\3rd Sem\Regis\Regis\bin\Debug\Regis.pdb
+F:\3rd Sem\Regis\Regis\obj\Debug\Regis.csproj.AssemblyReference.cache
+F:\3rd Sem\Regis\Regis\obj\Debug\Regis.csproj.CoreCompileInputs.cache
+F:\3rd Sem\Regis\Regis\obj\Debug\Regis.exe
+F:\3rd Sem\Regis\Regis\obj\Debug\Regis.pdb
